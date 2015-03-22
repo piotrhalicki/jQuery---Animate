@@ -10,7 +10,7 @@ $('.greenR').animate({ opacity: 10, height: '120px', width: '120px', left: '60px
 $('.violet').animate({ opacity: 10,	height: '120px', width: '120px', left: '60px' }, 
 1000, function(){	
 	
-$('.red').animate({	opacity: 10, height: '120px', width: '120px', right: '60px'	},
+$('.red').animate({	opacity: 10, height: '120px', width: '120px', left: '60px'	},
 1000, function(){
 	
 $('.red').fadeOut(6000);	
