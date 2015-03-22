@@ -1,0 +1,45 @@
+div {
+	width: 90px;
+	height:	90px;
+	border: 20px solid white;
+	display: table-cell;
+	border-radius: 5em;
+}
+
+.blue {
+	opacity: 0;
+	background-color: blue;
+	position: relative;
+}
+
+.greenR {
+	opacity: 0;
+	background-color: green;
+	position: relative;
+	left: 60px;
+
+}
+
+.violet {
+	opacity: 0;
+	background-color: #cd57bc;
+	position: relative;
+	top: 1px;
+
+}
+
+.green {
+	opacity: 0;
+	background-color: green;
+	position: relative;
+	
+}
+
+.red {
+	opacity: 0;
+	background-color: red;
+	position: relative;
+	left: 60px;
+
+}
+
